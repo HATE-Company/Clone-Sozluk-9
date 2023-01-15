@@ -1,0 +1,58 @@
+.frame1 {
+  height: 1200px;
+  width: 1600px;
+  border-radius: 0px;
+  position: relative;
+   width: 1600px;
+  height: 1200px;
+  background: #101E42;
+}
+.frame1-rectangle1{
+  height: 1024px;
+width: 1440px;
+left: 80px;
+top: 96px;
+border-radius: 20px;
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 80px;
+top: 96px;
+
+background: rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+
+}
+.frame1-reactangele1-logo{
+position: absolute;
+height: 82px;
+width: 62px;
+left: 202px;
+top: 166px;
+border-radius: [object Object]px;
+
+}
+.frame1-rectangle1-search{
+  position: absolute;
+width: 614px;
+height: 72px;
+left: 493px;
+top: 171px;
+
+background: linear-gradient(186.53deg, rgba(164, 200, 255, 0.04) 29.16%, rgba(164, 200, 255, 0) 155.19%);
+mix-blend-mode: normal;
+filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(10px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+}
+.frame1-rectangle1-search-vector{
+  position: absolute;
+width: 25px;
+height: 28.5px;
+left: 515px;
+top: 193px;
+
+opacity: 0.3;; 
+}
