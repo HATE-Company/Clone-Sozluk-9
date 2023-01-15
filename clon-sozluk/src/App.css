@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 .frame1 {
   height: 1200px;
   width: 1600px;
@@ -32,7 +33,7 @@ top: 166px;
 border-radius: [object Object]px;
 
 }
-.frame1-rectangle1-search{
+.frame1-rectangle1-rectangle2{
   position: absolute;
 width: 614px;
 height: 72px;
@@ -47,12 +48,46 @@ backdrop-filter: blur(10px);
 
 border-radius: 20px;
 }
-.frame1-rectangle1-search-vector{
+.frame1-rectangle1-group1-vector{
   position: absolute;
-width: 25px;
-height: 28.5px;
-left: 515px;
-top: 193px;
+  height: 3px;
+  width: 3px;
+  left: 536px;
+  top: 218px;  
+  border: 2px solid #FFFFFF;
+  
 
-opacity: 0.3;; 
 }
+.frame1-rectangle1-group1-vector-circle{
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  left: 515px;
+  top: 193px;
+
+  border: 2px solid #FFFFFFCC;
+ border-radius: 50%;}
+ .frame1-rectangle1-search-text{
+  position: absolute;
+width: 56px;
+height: 97px;
+left: 772px;
+top: 158px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.3;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+ }
+ .frame1-rectangle1-dropdown{
+
+ }
