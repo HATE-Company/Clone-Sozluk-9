@@ -89,5 +89,196 @@ opacity: 0.3;
 text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
  }
  .frame1-rectangle1-dropdown{
+  position: absolute;
+  width: 26px;
+  height: 33px;
+ left:1300px;
+ top:197px;
+
 
  }
+ .drop{
+  background-color: #101E42;
+ 
+ }
+ .frame1-rectangle1-rectangle54{
+  position: absolute;
+width: 260px;
+height: 391px;
+left: 115px;
+top: 422px;
+
+background: linear-gradient(180deg, rgba(221, 222, 224, 0.04) 0%, rgba(222, 223, 224, 0.04) 100%);
+mix-blend-mode: normal;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(10px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 20px;
+ }
+ .frame1-rectangle1-topics{
+  position: absolute;
+width: 54px;
+height: 97px;
+left: 206px;
+top: 402px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+ }
+.frame1-rectangle1-game-vector{
+  position: absolute;
+  height: 11px;
+  width: 22px;
+  left: 177px;
+  top: 493px;
+  border-radius: 0px;
+  
+background: #B5B7BC;
+}
+.frame1-rectangle1-game-vector-text{
+  position: absolute;
+width: 63px;
+height: 97px;
+left: 209px;
+top: 450px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.frame1-rectangle1-sport-vector-text{
+  position: absolute;
+  width: 53px;
+  height: 97px;
+  left: 212px;
+  top: 504px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 536.69%;
+  /* identical to box height, or 97px */
+  
+  text-align: center;
+  
+  color: #FFFFFF;
+  
+  opacity: 0.7;
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.frame1-rectangle1-television-vector-text{
+  position: absolute;
+width: 81px;
+height: 97px;
+left: 212px;
+top: 553px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.frame1-rectangle1-television-vector{
+  position: absolute;
+left: 11.06%;
+right: 87.56%;
+top: 49.42%;
+bottom: 49.08%;
+
+background: #B5B7BC;
+}
+.frame1-rectangle1-celebrity-vector-text{
+  position: absolute;
+width: 71px;
+height: 97px;
+left: 212px;
+top: 606px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.frame1-rectangle1-business-vector-text{
+  position: absolute;
+width: 73px;
+height: 97px;
+left: 212px;
+top: 659px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+.frame1-rectangle1-more-vector-text{
+  position: absolute;
+width: 42px;
+height: 97px;
+left: 213px;
+top: 712px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 536.69%;
+/* identical to box height, or 97px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
